@@ -1,4 +1,4 @@
-# avr-for-eclipse-fix
+# The AVR Eclipse Plugin fix
 
 The AVR Eclipse Plugin
 на новых версиях eclipse пропадает меню выбора avr-target
