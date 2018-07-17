@@ -1,18 +1,8 @@
 # avr-for-eclipse-fix
 
-ручная настройка avr-target
+The AVR Eclipse Plugin
+на новых версиях eclipse пропадает меню выбора avr-target
+всё прописывается в файле проэкта
 
 directory:
-eclipse-workspace\PROJECT\.settings\
-
-file:
-de.innot.avreclipse.core.prefs
-
-content:
-avrtarget/ClockFrequency=8000000
-
-avrtarget/MCUType=atmega328p
-
-avrtarget/perConfig=false
-
-eclipse.preferences.version=1
+eclipse-workspace\PROJECT\.settings\de.innot.avreclipse.core.prefs
