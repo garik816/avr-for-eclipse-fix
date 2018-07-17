@@ -1,5 +1,7 @@
 # avr-for-eclipse-fix
 
+ручная настройка avr-target
+
 directory:
 eclipse-workspace\PROJECT\.settings\
 
