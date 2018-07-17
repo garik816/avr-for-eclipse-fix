@@ -11,3 +11,4 @@ avrtarget/ClockFrequency=8000000
 avrtarget/MCUType=atmega328p
 avrtarget/perConfig=false
 eclipse.preferences.version=1
+
